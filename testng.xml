@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Project Test" parallel="tests" thread-count="2">
+    <parameter name="baseURL" value="https://useinsider.com/"/>
+    <test name="Career Test Chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="tests.CareerTests"/>
+        </classes>
+    </test>
+    <test name="Career Test Firefox">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="firefoxBinary" value="/Applications/Firefox.app/Contents/MacOS/firefox"/>
+        <classes>
+            <class name="tests.CareerTests"/>
+        </classes>
+    </test>
+</suite>

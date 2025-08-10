@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ed77da7-0808-4264-a0a0-1961248c73ec" name="Changes" comment="Init project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eceakkurt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eceakkurt/ece_akkurtKilic_seleniumCase.git&quot;,
+    &quot;accountId&quot;: &quot;54b34562-4e51-491e-bd93-6fc7305ca82e&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3101rFJwJz4dY1QbzMHe4NmpNY0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/klc/IdeaProjects/Test Automation/testng.xml (1).executor": "Run",
+    "TestNG./Users/klc/IdeaProjects/Test Automation/testng.xml.executor": "Run",
+    "TestNG.CareerTests.shouldOpenCareersAndSeeSections.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/klc/IdeaProjects/Test Automation",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="core" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Test Automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/klc/IdeaProjects/Test Automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ece-akkurt-kilic-test-automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/klc/IdeaProjects/Test Automation/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ed77da7-0808-4264-a0a0-1961248c73ec" name="Changes" comment="" />
+      <created>1754646372998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754646372998</updated>
+    </task>
+    <task id="LOCAL-00001" summary="jjjj">
+      <option name="closed" value="true" />
+      <created>1754747135853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754747135853</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor to findby">
+      <option name="closed" value="true" />
+      <created>1754747738598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754747738598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactor v2">
+      <option name="closed" value="true" />
+      <created>1754775698786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754775698786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactor v3">
+      <option name="closed" value="true" />
+      <created>1754776071813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754776071813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor v4">
+      <option name="closed" value="true" />
+      <created>1754776408923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754776408923</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor v5 base">
+      <option name="closed" value="true" />
+      <created>1754776789115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754776789115</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor v6 driver factory">
+      <option name="closed" value="true" />
+      <created>1754776935567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754776935567</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor v7 final">
+      <option name="closed" value="true" />
+      <created>1754777741275</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754777741275</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add license">
+      <option name="closed" value="true" />
+      <created>1754777873111</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754777873111</updated>
+    </task>
+    <task id="LOCAL-00010" summary="final v2">
+      <option name="closed" value="true" />
+      <created>1754778233138</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754778233138</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final v3">
+      <option name="closed" value="true" />
+      <created>1754808542782</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1754808542782</updated>
+    </task>
+    <task id="LOCAL-00012" summary="final v3">
+      <option name="closed" value="true" />
+      <created>1754810036901</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1754810036901</updated>
+    </task>
+    <task id="LOCAL-00013" summary="final v3">
+      <option name="closed" value="true" />
+      <created>1754813517145</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754813517145</updated>
+    </task>
+    <task id="LOCAL-00014" summary="final v3">
+      <option name="closed" value="true" />
+      <created>1754819512085</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1754819512085</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Init project">
+      <option name="closed" value="true" />
+      <created>1754821438380</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1754821438380</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jjjj" />
+    <MESSAGE value="refactor to findby" />
+    <MESSAGE value="refactor v2" />
+    <MESSAGE value="refactor v3" />
+    <MESSAGE value="refactor v4" />
+    <MESSAGE value="refactor v5 base" />
+    <MESSAGE value="refactor v6 driver factory" />
+    <MESSAGE value="refactor v7 final" />
+    <MESSAGE value="add license" />
+    <MESSAGE value="final v2" />
+    <MESSAGE value="final v3" />
+    <MESSAGE value="Init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init project" />
+  </component>
+</project>
